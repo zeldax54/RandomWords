@@ -1,0 +1,9 @@
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\bin\Debug\Ramdomizar.exe.config
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\bin\Debug\Ramdomizar.exe
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\bin\Debug\Ramdomizar.pdb
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\obj\Debug\Ramdomizar.csprojResolveAssemblyReference.cache
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\obj\Debug\Ramdomizar.Form1.resources
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\obj\Debug\Ramdomizar.Properties.Resources.resources
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\obj\Debug\Ramdomizar.csproj.GenerateResource.Cache
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\obj\Debug\Ramdomizar.exe
+c:\users\hl\documents\visual studio 2013\Projects\Ramdomizar\Ramdomizar\obj\Debug\Ramdomizar.pdb
